@@ -2,5 +2,6 @@ site_name: GIS WiKi
 nav:
   - Home: index.md
   - About | 关于: about.md
+  - GWR:GWR.md
   - 自然地理: zirandili.md
 theme: readthedocs
