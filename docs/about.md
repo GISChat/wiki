@@ -1,5 +1,5 @@
 # About
-Welcome to out gis wiki！
+Welcome to our gis wiki！
 
 ## Guide
 
