@@ -1,4 +1,10 @@
 site_name: GIS WiKi
+site_url: https://gischat.xyz/
+site_description: A gis wiki
+site_author: GISChat team and fans
+
+repo_url: https://github.com/GISChat/wiki/
+edit_uri: blob/master/docs/
 nav:
   - Home: index.md
   - About | 关于: about.md
